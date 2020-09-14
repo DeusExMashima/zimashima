@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="./assets/MashimaLogo.png" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/MashimaLogo.png" />
 </div>
 
 <h1 align="center">  🙌  Hello World  🙌 </h1>
@@ -20,23 +20,23 @@ People I work with said I'm hardworking, and fun to work with, but I'll let you 
 <h2 align="center">  I can code with... 💻 </h2>
 
 <div align="center"> 
-<img src="./assets/svgIcons/html5.svg" />
-<img src="./assets/svgIcons/css3.svg" />
-<img src="./assets/svgIcons/sass.svg" />
-<img src="./assets/svgIcons/javascript.svg" />
-<img src="./assets/svgIcons/typescript.svg" />
-<img src="./assets/svgIcons/react.svg" />
-<img src="./assets/svgIcons/node-dot-js.svg" />
-<img src="./assets/svgIcons/python.svg" />
-<img src="./assets/svgIcons/markdown.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/html5.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/css3.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/sass.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/javascript.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/typescript.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/react.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/node-dot-js.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/python.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/markdown.svg" />
 </div>
 
 <h2 align="center">  Tools I use 🛠 </h2>
 
 <div align="center"> 
-<img src="./assets/svgIcons/postgresql.svg" />
-<img src="./assets/svgIcons/docker.svg" />
-<img src="./assets/svgIcons/slack.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/postgresql.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/docker.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/slack.svg" />
 </div>
 
 
