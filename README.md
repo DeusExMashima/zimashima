@@ -7,15 +7,15 @@
 
 <h1 align="center">  🙌  Hello World  🙌 </h1>
 
-My name is Mashima Button, and I am software engineer who loves to build things, continuously work to improve myself, and loves to have fun with everything I do!
+My name is Mashima Button, and I am software engineer who loves to build things, continuously work to improve myself, and loves to have fun with everything I do. Check out some of my projects on my portfolio [here](https://mashimabutton.com)
 
-People I work with said I'm hardworking, and fun to work with, but I'll let you be the judge so why don't we get in touch? 😄
+People I have come in contact with said I'm hardworking, fun, and easy to work with, but I'll let you be the judge so why don't we get in touch? 😄
 
-**GitHub:** github.com/zimashima
+**GitHub:** [github.com/zimashima](https://github.com/zimashima)
 
-**Twitter:** twitter.com/_zimashima
+**Twitter:** [twitter.com/_zimashima](https://twitter.com/_zimashima)
 
-**LinkedIn:** linkedin.com/in/mashimabutton/
+**LinkedIn:** [linkedin.com/in/mashimabutton](https://linkedin.com/in/mashimabutton)
 
 <h2 align="center">  I can code with... 💻 </h2>
 
@@ -43,20 +43,23 @@ People I work with said I'm hardworking, and fun to work with, but I'll let you 
 <h2 align="center">  I am familiar with these concepts... </h2>
 
 <div align="center"> 
-Responsive Designs | Accessibility | Client-side Authentication | Server-side Authentication | Database Designs | State Management | Cloud Computing
+
+Responsive Designs | Accessibility | Client-side Authentication | Server-side Authentication | Database Designs | State Management | Cloud Computing | Agile Methodology
+
 </div>
 
-<h2 align="center">  Aside from Coding, I do enjoy... </h2>
+<h2 align="center">  Aside from Coding, I enjoy... </h2>
 <div align="center"> 
+
 🎮 Video Games
 
 🎬 Series and Movies
 
-🎹 Piano & Music
+🎹 Piano & Music 
 
-✈ Traveling
+✈ Traveling 
 
-🏝 Beaches
+🏖 Beaches
 
 🍽 Eating
 
