@@ -8,7 +8,7 @@
 
 <h1 align="center">  🙌  Hello World  🙌 </h1>
 
-My name is Mashima Button, and I am software engineer who loves to build things, continuously work to improve myself, and loves to have fun with everything I do. Check out some of my projects on my portfolio [here](https://mashimabutton.com)
+My name is Mashima Button, and I am a software engineer who loves to build things, continuously works to improve myself, and loves to have fun with everything I do. Check out some of my projects on my portfolio [here](https://mashimabutton.com)
 
 People I have come in contact with said I'm hardworking, fun, and easy to work with, but I'll let you be the judge so why don't we get in touch? 😄
 
