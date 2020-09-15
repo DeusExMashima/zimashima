@@ -2,7 +2,8 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/MashimaLogo.png" />
+<a href="https://mashimabutton.com">
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/MashimaLogo.png" alt="Mashima Button's Logo"/></a>
 </div>
 
 <h1 align="center">  🙌  Hello World  🙌 </h1>
@@ -20,23 +21,23 @@ People I have come in contact with said I'm hardworking, fun, and easy to work w
 <h2 align="center">  I can code with... 💻 </h2>
 
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/html5.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/css3.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/sass.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/javascript.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/typescript.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/react.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/node-dot-js.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/python.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/markdown.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/html5.svg" alt="HTML5 Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/css3.svg" alt="CSS3 Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/sass.svg" alt="SASS Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/javascript.svg" alt="JavaScript Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/typescript.svg" alt="Typescript Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/react.svg" alt="React Icon" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/node-dot-js.svg" alt="NodeJS Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/python.svg" alt="Python Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/markdown.svg" alt="Markdown Icon"/>
 </div>
 
 <h2 align="center">  Tools I use 🛠 </h2>
 
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/postgresql.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/docker.svg" />
-<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/slack.svg" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/postgresql.svg" alt="PostgresQL Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/docker.svg" alt="Docker Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/slack.svg" alt="Slack Icon"/>
 </div>
 
 
