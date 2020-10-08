@@ -21,7 +21,7 @@ People I have come in contact with said I'm hardworking, fun, and easy to work w
 </div>
 <div align="center">
 
-![Mashima's GitHub stats](https://github-readme-stats.vercel.app/api?username=zimashima&theme=omni&count_private=true&show_icons=true)
+![Mashima's GitHub stats](https://github-readme-stats.vercel.app/api?username=zimashima&theme=gotham&count_private=true&show_icons=true)
 
 </div>
 <h2 align="center">  I can code with... 💻 </h2>
