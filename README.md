@@ -12,12 +12,18 @@ My name is Mashima Button, and I am a software engineer who loves to build thing
 
 People I have come in contact with said I'm hardworking, fun, and easy to work with, but I'll let you be the judge so why don't we get in touch? 😄
 
-**GitHub:** [github.com/zimashima](https://github.com/zimashima)
+<div align="center">
 
-**Twitter:** [twitter.com/_zimashima](https://twitter.com/_zimashima)
+**GitHub:** [zimashima](https://github.com/zimashima) |
+**Twitter:** [@_zimashima](https://twitter.com/_zimashima) |
+**LinkedIn:** [mashimabutton](https://linkedin.com/in/mashimabutton)
 
-**LinkedIn:** [linkedin.com/in/mashimabutton](https://linkedin.com/in/mashimabutton)
+</div>
+<div align="center">
 
+![Mashima's GitHub stats](https://github-readme-stats.vercel.app/api?username=zimashima&theme=omni&count_private=true&show_icons=true)
+
+</div>
 <h2 align="center">  I can code with... 💻 </h2>
 
 <div align="center"> 
@@ -49,11 +55,7 @@ Responsive Designs | Accessibility | Client-side Authentication | Server-side Au
 
 </div>
 
-<div align="center">
 
-[![Mashima's GitHub stats](https://github-readme-stats.vercel.app/api?username=zimashima&theme=omni&count_private=true&show_icons=true)]
-
-</div>
 
 <h2 align="center">  Aside from Coding, I enjoy... </h2>
 <div align="center"> 
