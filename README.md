@@ -52,17 +52,11 @@ Responsive Designs | Accessibility | Client-side Authentication | Server-side Au
 <h2 align="center">  Aside from Coding, I enjoy... </h2>
 <div align="center"> 
 
-🎮 Video Games
-
-🎬 Series and Movies
-
-🎹 Piano & Music 
-
-✈ Traveling 
-
-🏖 Beaches
-
+🎮 Video Games 🎬 Series and Movies 🎹 Piano & Music  ✈ Traveling  🏖 Beaches
 🍽 Eating
 
 🍳 Cooking (I'm Thai and I make great Thai food!)
+</div>
+<div align="center">
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zimashima&theme=omni&count_private=true&show_icons=true)](https://github.com/zimashima/github-readme-stats)
 </div>
