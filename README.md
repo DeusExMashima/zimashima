@@ -49,6 +49,12 @@ Responsive Designs | Accessibility | Client-side Authentication | Server-side Au
 
 </div>
 
+<div align="center">
+
+[![Mashima's GitHub stats](https://github-readme-stats.vercel.app/api?username=zimashima&theme=omni&count_private=true&show_icons=true)]
+
+</div>
+
 <h2 align="center">  Aside from Coding, I enjoy... </h2>
 <div align="center"> 
 
@@ -57,6 +63,4 @@ Responsive Designs | Accessibility | Client-side Authentication | Server-side Au
 
 🍳 Cooking (I'm Thai and I make great Thai food!)
 </div>
-<div align="center">
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zimashima&theme=omni&count_private=true&show_icons=true)](https://github.com/zimashima/github-readme-stats)
-</div>
+
