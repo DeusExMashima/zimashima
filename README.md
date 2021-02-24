@@ -24,7 +24,7 @@ People I have come in contact with said I'm hardworking, fun, and easy to work w
 ![Mashima's GitHub stats](https://github-readme-stats.vercel.app/api?username=zimashima&theme=gotham&count_private=true&show_icons=true)
 
 </div>
-<h2 align="center">  I can code with... 💻 </h2>
+<h2 align="center">  I can code... 💻 </h2>
 
 <div align="center"> 
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/html5.svg" alt="HTML5 Icon"/>
@@ -33,6 +33,8 @@ People I have come in contact with said I'm hardworking, fun, and easy to work w
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/javascript.svg" alt="JavaScript Icon"/>
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/typescript.svg" alt="Typescript Icon"/>
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/react.svg" alt="React Icon" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/redux.svg" alt="Redux Icon" />
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/angular.svg" alt="Angular Icon" />
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/node-dot-js.svg" alt="NodeJS Icon"/>
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/python.svg" alt="Python Icon"/>
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/markdown.svg" alt="Markdown Icon"/>
@@ -42,6 +44,7 @@ People I have come in contact with said I'm hardworking, fun, and easy to work w
 
 <div align="center"> 
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/postgresql.svg" alt="PostgresQL Icon"/>
+<img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/mongodb.svg" alt="MongoDB Icon"/>
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/docker.svg" alt="Docker Icon"/>
 <img src="https://raw.githubusercontent.com/zimashima/zimashima/master/assets/svgIcons/slack.svg" alt="Slack Icon"/>
 </div>
